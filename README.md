@@ -78,10 +78,10 @@ python script_name.py
 
 ### Example:
 
-To run the `snow.py` script, which uses `matplotlib` for graphical output, use:
+To run the `triangle.py` script, which uses `matplotlib` for graphical output, use:
 
 ```bash
-python snow.py
+python triangle.py
 ```
 
 ---
@@ -118,4 +118,4 @@ This project is licensed under the terms of the [LICENSE](./LICENSE).
 
 ---
 
-Happy coding!
+Happy coding!🎉
