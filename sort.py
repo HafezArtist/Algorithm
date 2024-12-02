@@ -51,7 +51,7 @@ def bubbleSort(arr):
 
 #insertion sort
 
-A = [5, 2, 7, 11, -7, 8, 20, 1, 15]
+A = [1, 6, 7, 4, 8, 5, 3, 2, 9]
 
 for k in range(1, len(A)):
     item = A[k]
