@@ -45,4 +45,20 @@ def bubbleSort(arr):
     return arr
 
 
-print(bubbleSort([15, 20, 8, 6, 40, 100]))
+# print(bubbleSort([15, 20, 8, 6, 40, 100]))
+
+
+
+#insertion sort
+
+A = [5, 2, 7, 11, -7, 8, 20, 1, 15]
+
+for k in range(1, len(A)):
+    item = A[k]
+    i = k
+    while i > 0 and A[i - 1] > item:
+        A[i] = A[i - 1]
+        i -= 1
+    A[i] = item
+    print(A)
+print(A)
