@@ -97,7 +97,8 @@ python triangle.py
 - `winner.py`: Determines a winner in a specified context.
 - `coins.py`: Simulates coin-related computations (e.g., change-making problem).
 - `XO.py`: Implements a game of tic-tac-toe.
-- `in_or_out.py`: Implements the Ray casting algorithm
+- `in_or_out.py`: Implements the Ray casting algorithm.
+- `recursive_BS.py : BinarySearch using recursive functions.
 
 ---
 
