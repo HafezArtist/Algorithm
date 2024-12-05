@@ -30,7 +30,6 @@ This repository contains various algorithms implemented in Python, designed to s
 - ⚙️Python 3.7 or higher
 - 🐍Libraries:
   -  `matplotlib`
-  -  `turtle`
 
 ---
 
