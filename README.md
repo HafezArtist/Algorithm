@@ -98,7 +98,8 @@ python triangle.py
 - `coins.py`: Simulates coin-related computations (e.g., change-making problem).
 - `XO.py`: Implements a game of tic-tac-toe.
 - `in_or_out.py`: Implements the Ray casting algorithm.
-- `recursive_BS.py : BinarySearch using recursive functions.
+- `recursive_BS.py` : BinarySearch using recursive functions.
+- `BinTo4Base.py` : Converting Binary to 4 Base directly.
 
 ---
 
